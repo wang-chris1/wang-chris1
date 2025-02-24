@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Chris Wang I'm a student at Northeastern 
 <!--
 **wang-chris1/wang-chris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
